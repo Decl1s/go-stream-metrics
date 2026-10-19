@@ -1,0 +1,9 @@
+.tools/
+.cache/
+workspace/
+artifacts/
+.env*
+*.exe
+/streammetrics
+__pycache__/
+*.py[cod]
