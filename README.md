@@ -154,5 +154,5 @@ python scripts/package_release.py
 ## Публикация
 
 [Исходники](https://github.com/Decl1s/go-stream-metrics),
-[релиз v0.1.0](https://github.com/Decl1s/go-stream-metrics/releases/tag/v0.1.0),
-[проверки Linux и Windows](https://github.com/Decl1s/go-stream-metrics/actions/runs/39241706149).
+[проверки Linux и Windows](https://github.com/Decl1s/go-stream-metrics/actions/runs/39242310019).
+Исходный архив 0.1.0 собран локально; релиз GitHub ожидает восстановления доступа браузера.
