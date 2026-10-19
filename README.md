@@ -150,3 +150,9 @@ python scripts/package_release.py
 проверка отмечает адреса вне no-reply без вывода самих адресов. Контакты в исходниках запрещены.
 
 Версия 0.1.0. Лицензия MIT; [русский перевод](LICENSE-RU.md).
+
+## Публикация
+
+[Исходники](https://github.com/Decl1s/go-stream-metrics),
+[релиз v0.1.0](https://github.com/Decl1s/go-stream-metrics/releases/tag/v0.1.0),
+[проверки Linux и Windows](https://github.com/Decl1s/go-stream-metrics/actions/runs/39241706149).

@@ -14,7 +14,7 @@
 | ZIP, hashlib, unittest | Стандартная библиотека Python | Архив по явному списку, контрольная сумма, проверка публикации | https://docs.python.org/3.12/library/zipfile.html |
 | GNU time | Локальный инструмент /usr/bin/time, Linux | Одноразовый сравнительный замер максимального RSS | https://www.gnu.org/software/time/ |
 | Git | 2.x | Изолированная история проекта и проверка списка отслеживаемых файлов | https://git-scm.com/docs |
-| GitHub Actions | Планируются Linux и Windows с Go 1.27.2, Python 3.12 | Тесты, собранное демо и исходный архив | https://docs.github.com/ru/actions |
+| GitHub Actions | Проверены Ubuntu и Windows с Go 1.27.2, Python 3.12 | Тесты, собранное демо и исходный архив | https://docs.github.com/ru/actions |
 | actions/checkout | v4, SHA в ci.yml | Получение исходников без сохранения учётных данных | https://github.com/actions/checkout |
 | actions/setup-go | v6, SHA 924ae3a1cded613372ab5595356fb5720e22ba16 | Закреплённая версия Go, без кэша зависимостей | https://github.com/actions/setup-go |
 | actions/setup-python | v5, SHA в ci.yml | Python для вспомогательных проверок | https://github.com/actions/setup-python |
